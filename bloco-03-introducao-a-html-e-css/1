@@ -6,6 +6,12 @@
   </head>
   <body>
     <h1>Exercícios</h1>
+    <a href="#Lucas"></a>
+    <a href="#Gustavo"></a>
+    <p id="Lucas">Lucas</p>
+    <p id="Gustavo">Gustavo</p>
+    <a href="www.google.com" target="_blank">Google</a>
+
     <ul>
         <li>Lucas</li>
         <li>Gustavo</li>
