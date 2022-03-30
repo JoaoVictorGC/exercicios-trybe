@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML</title>
+  </head>
+  <body>
+    <h1>Exercícios</h1>
+    <ul>
+        <li>Lucas</li>
+        <li>Gustavo</li>
+    </ul> 
+    <img> src=https://www.google.com/imgres?imgurl=https%3A%2F%2Fs1.static.brasilescola.uol.com.br%2Fbe%2Fconteudo%2Fimages%2Fimagem-em-lente-convexa.jpg&imgrefurl=https%3A%2F%2Feducador.brasilescola.uol.com.br%2Festrategias-ensino%2Fcomo-produzir-imagens-reais-virtuais-sala-aula.htm&tbnid=x1_P2c7esuB1uM&vet=12ahUKEwjz1_2pvO72AhV8BLkGHbYQDoMQMygCegUIARDZAQ..i&docid=hSg7FQdSBou-5M&w=700&h=467&q=imagem&ved=2ahUKEwjz1_2pvO72AhV8BLkGHbYQDoMQMygCegUIARDZAQ width="200px"
+    <img> <source> 220116_rede.jpg
+  </body>
+</html>
