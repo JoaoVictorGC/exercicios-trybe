@@ -1,0 +1,27 @@
+style>
+       h1 {
+         color: orange;
+         font-size: 65px;
+         font-family: sans-serif;
+       }
+
+       #list-color {
+         background-color: black;
+         color: white;
+         line-height: 20px;
+         text-align: center;
+         text-decoration: double;
+       }
+
+       p {
+           font-weight: 600;
+           font-size: 3em;
+           font-style: italic;
+    
+       }
+
+       body {
+           font-size: 16px;
+       }
+
+    </style>
